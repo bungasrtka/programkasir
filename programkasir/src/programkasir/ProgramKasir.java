@@ -15,6 +15,7 @@ public class ProgramKasir extends javax.swing.JFrame {
 
     /**
      * Creates new form ProgramKasir
+     this is new version of Program Kasir
      */
     public ProgramKasir() {
         initComponents();
